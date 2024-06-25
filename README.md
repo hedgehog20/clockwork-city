@@ -19,9 +19,9 @@ input.
 
 The code I found most challenging to work with was correct file handling. I had done a file conversion assignment before and it was easy to do, but for
 some reason in this program, it got challenging. That was when I had to learn to map items. After doing a great deal of research, I was able to implement
-the right method, and managed to get the program to function, but there still was a problem. The files were not converting like they should. I then realized
-I forgot to add the method to close the files. After that, it was good to go! The tools I might add to my support network will be exploring techniques in
-memory management pertaining to C++ to make sure my programs are able to handle large files without causing memory leaks.
+the right method, and managed to get the program to function, but there still was a problem. The files were not converting like they were supposed to. I then 
+realized that I forgot to add the method to close the files. After that, it was good to go! For my support network in overcoming this challenge, I read a handbook 
+on C++ and did research online on new concepts I needed to use to create this program, such as implementing the map.
 
 *What skills from this project will be particularly transferable to other projects or course work?*
 
